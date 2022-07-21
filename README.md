@@ -36,7 +36,6 @@ Commands:
     train           Train a model.
     hello-subcommand                                    << Here is the command that have been added!
                     This is the first custom subcommand << Here is the command that have been added!
-(allennlp-custom-subcommand-sample) [plant-ai01: /data2/pink/ghq_archive/github.com/shunk031/allennlp-custom-subcommand-sample]
 ```
 
 ```shell
