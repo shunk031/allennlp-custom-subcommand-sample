@@ -68,7 +68,7 @@ I recommend that you also refer to [allenai/allennlp-template-config-files](http
 ### Update files to load the subcommand
 
 - Update `my_project/__init__.py` to load `my_project/commands`.
-- Update `my_project/commands/__init__.py` to load `my_project.commands.sub_command.HelloSubcommand`.
+- Update `my_project/commands/__init__.py` to load `my_project.commands.hello_subcommand.sub_command.HelloSubcommand`.
 
 | [`my_project/__init__.py`](https://github.com/shunk031/allennlp-custom-subcommand-sample/blob/master/my_project/__init__.py) | [`my_project/commands/__init__.py`](https://github.com/shunk031/allennlp-custom-subcommand-sample/blob/master/my_project/commands/__init__.py) |
 |------|------|
